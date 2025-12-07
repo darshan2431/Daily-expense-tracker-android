@@ -30,8 +30,10 @@ Add your app screenshots here after uploading
 
 Example:
 
-![Home Screen](image_link)
-![Add Expense](image_link)
+![Home Screen](<img width="320" height="731" alt="Home screen" src="https://github.com/user-attachments/assets/7f5b2a31-e6f3-49a8-abd5-9e2be35e8f64" />
+)
+![Add Expense](<img width="338" height="763" alt="Add expense" src="https://github.com/user-attachments/assets/83f4c465-5f66-464a-9029-114439bf1f89" />
+)
 
 📂 Project Structure
 📁 app/src/main/java/.../dailyexpensetracker
