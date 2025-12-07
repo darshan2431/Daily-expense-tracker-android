@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DailyExpenseTracker" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorPrimaryVariant">#1976D2</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">#FF5722</item>
+        <item name="colorSecondaryVariant">#E64A19</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <!-- Background -->
+        <item name="android:windowBackground">#F5F5F5</item>
+    </style>
+</resources>
